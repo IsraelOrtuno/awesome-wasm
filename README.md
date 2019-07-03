@@ -305,6 +305,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 - [Slack: WebAssembly Developers](https://webassemblydevelopers.slack.com) [(click here to get an invitation)](https://webassemblydevelopers.herokuapp.com/)
 - [WasmWeekly - a weekly newsletter](http://wasmweekly.news/)
 - [WebAssembly AMA](http://pages.catchpoint.com/webassembly-ama.html)
+- [WebAssembly Community on Discord](https://discord.gg/PABgD6u)
 
 ## Books
 - [WebAssembly Reference Manual](https://github.com/sunfishcode/wasm-reference-manual)
